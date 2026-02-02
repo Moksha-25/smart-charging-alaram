@@ -2,3 +2,5 @@ kivy>=2.3.0
 kivymd>=1.2.0
 plyer
 pillow
+
+you can add more sounds accordingly for your convinience and experience the preview
